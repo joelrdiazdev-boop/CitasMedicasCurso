@@ -1,6 +1,6 @@
-# Convenciones del proyecto — borrador para revisión
+# Convenciones del proyecto 
 
-> Estado: propuesta. Este documento no describe todavía la estructura implementada; no autoriza por sí mismo una reorganización de carpetas.
+> La estructura de carpetas descrita más adelante es una propuesta de evolución; no representa todavía la estructura implementada ni autoriza por sí misma una reorganización.
 
 ## Propósito y alcance
 
